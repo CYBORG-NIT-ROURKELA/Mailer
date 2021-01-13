@@ -36,4 +36,4 @@ The less secure app access of the email address from which the mail will be sent
 
 ### Preview of a mail
 
-![](./images/mailPreview.png)
+![](./images/Mail.png)
