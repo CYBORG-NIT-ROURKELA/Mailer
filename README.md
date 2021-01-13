@@ -10,7 +10,7 @@ A GUI to send mail to the multiple user just on a single click
 - [Python](https://www.python.org/downloads/release/python-387/) (Python 3.8.7)
 
 ## ⭐ Preview
-![](./images/GUI_image.png)
+![](./images/GUI.png)
 
 ## 👍 Demo
 
